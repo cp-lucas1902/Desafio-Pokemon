@@ -1,0 +1,35 @@
+#grass {
+    background-color: green;
+    color: white;
+}
+
+#poison {
+    background-color: blueviolet;
+    color: white;
+}
+
+#fire {
+    background-color: coral;
+    color: white;
+}
+
+#water {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#fundo {
+    background-color: whitesmoke;
+}
+
+.favorito {
+    color: grey
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: red;
+}
